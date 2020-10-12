@@ -92,7 +92,7 @@ console.log(calcBrickNum);
 
 
 //tiny frined
-
+// get the smallest letters friend name
 function tinyFriend(friendsArr) {
     let tinyFrnd = friendsArr[0];
     for (let i = 0; i < friendsArr.length; i++) {
